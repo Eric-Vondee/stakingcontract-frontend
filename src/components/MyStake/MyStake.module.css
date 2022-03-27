@@ -55,7 +55,8 @@
 .getAddress_btn {
   padding: 0.8rem 1.2rem;
   border: 0;
-  background-color: rgb(8, 153, 107);
+  background-color: brown;
+  color: white;
   border-radius: 0.3rem;
   margin-left: 1rem;
   width: 6rem;
